@@ -1,0 +1,4 @@
+creat a folder on desktop
+then open notepad and enter some data save the file in the created folder
+open command prompt 
+using given prompts push the file to github
